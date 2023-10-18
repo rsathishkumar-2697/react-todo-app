@@ -1,4 +1,4 @@
-# Clone the Todo Application with API Integration using React js
+## Clone the Todo Application with API Integration using React js
 
 
 ## Available Scripts
@@ -8,6 +8,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
+Open [https://warm-fenglisu-9fd470.netlify.app]. to view it in your browser.
 
 
 The page will reload when you make changes.\
